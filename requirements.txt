@@ -1,0 +1,8 @@
+streamlit
+numpy
+torch
+transformers
+xgboost
+scikit-learn
+matplotlib
+mne
